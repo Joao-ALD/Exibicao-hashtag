@@ -2,6 +2,7 @@
 // ================== CONFIGURAÇÃO ==================
 // obs: Por padrão, os tokens expiram em 1 hora, é possível extender a duração em até 60 dias na aba de depuração do token, após isso, deve ser criado outro token (link: https://developers.facebook.com/tools/explorer/768010505959496/?domain=FB&method=GET&path=me%2Faccounts%3Ffields%3Dinstagram_business_account%7Bid%2Cusername%7D&version=v23.0)
 $token   = "EAAK6gGFkOEgBPURyZBE6NaUIPCfjh85VZC5wZBCzZB73ayadI65kM7ztN49MofLz2HtLNDdvMU9jmsfFtnG56PKMatO7tFfLtBZApdaDq00ZCFyJZB8VHizpjZCZCm53cMv3o8QBG6sWJX6LZAlTZC7QilM2NtSTN8Kg7PUGHjwU8e6IeYx2Bzpm36ikiTkoBna2a8ejSp2evFLu29rAPcjlfAr35uLZCCCu1lJusHYZD";
+
 $user_id = "308228122382946";
 
 // AQUI VOCÊ PODE MUDAR A HASHTAG QUANDO QUISER
